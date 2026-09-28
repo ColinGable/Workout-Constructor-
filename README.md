@@ -24,9 +24,6 @@ A desktop application for building and managing custom client workouts using a g
 - Object-Oriented Programming
 - Git / GitHub
 
-## Screenshot
-
-[Workout Constructor Pic](PASTE-YOUR-SCREENSHOT-LINK-HERE)
 
 ## Installation
 
